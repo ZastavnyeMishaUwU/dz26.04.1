@@ -1,0 +1,47 @@
+body {
+    background: #ef9eaf;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.fruit-list {
+    width: 500px;
+    height: auto;
+    background-color: #f7f7f7; /* light background for the entire list */
+    padding: 20px;
+    margin: 20px;
+}
+
+ol {
+    height: 41px;
+    background-color: #c86176; /* darker background for one element */
+    display: flex;
+    margin-bottom: 5px;
+
+}
+
+
+
+span {
+
+    height: 41px;
+    padding-top: 10px;
+    background-color: #a2334b; /* darkest background for the text */
+    float: right;
+    box-sizing: border-box; /* make sure the padding is included in the total width */
+}
+
+.fruit-name {
+
+}
+.fof{
+    width: 90px;
+}
